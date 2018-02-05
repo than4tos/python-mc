@@ -1,2 +1,2 @@
 # python-mc
-Repository for my own python learning journey
+Repository for personal python learning journey
